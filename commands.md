@@ -5,3 +5,5 @@
 3. git commit - Saves changes to the repository.
 4. git status - Displays the current repository status.
 5. git log - Displays the commit history.
+6. git branch - Lists, creates, and deletes branches.
+7. git merge - Combines changes from different branches.
